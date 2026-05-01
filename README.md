@@ -22,7 +22,7 @@ We compare our method against prior work in terms of facial details (mouth, eyes
 - Rendering artifacts (blur, ghosting) in different views are reduced.
 
 <div align="center">
-<img src="fig2.jpg" width="900">
+<img src="fig3.png" width="900">
 <br>
 <em>Novel-view Comparison comparison with baseline methods</em>
 </div>
@@ -32,7 +32,7 @@ We compare our method against prior work in terms of facial details (mouth, eyes
 - **Self-reenactment**: Replicating the original subject’s movements.
 
 <div align="center">
-<img src="fig3.jpg" width="900">
+<img src="fig4.jpg" width="900">
 <br>
 <em>Cross-reenactment and self-reenactment results</em>
 </div>
